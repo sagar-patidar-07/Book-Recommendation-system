@@ -16,7 +16,7 @@ function Footer() {
       flexDirection: 'column',
       }}>
       <Typography variant="body2" sx={{ mb: 1 }}>© 2023 Book Recommendation System</Typography>
-      <Typography variant="caption" sx={{ mb: 1 }}>Made by Vinay</Typography>
+      <Typography variant="caption" sx={{ mb: 1 }}>Made by coders</Typography>
       <Typography variant="caption">Powered by React and Material UI</Typography>
       <Box sx={{ mt: 2 }}>
         <Link href="#" underline="hover" sx={{ mr: 1 }}>Privacy Policy</Link>

@@ -57,7 +57,7 @@ project/
 
 ## Screenshots
 
-![App Screenshot](https://github.com/VinayWankhede11/Book-Recommendation-System/blob/main/Book%20SS.jpeg)
+![App Screenshot](https://github.com/sagar-patidar-07/Book-Recommendation-system/blob/main/Book%20SS.jpeg)
 
 
 ## Features
